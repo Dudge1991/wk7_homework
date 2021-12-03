@@ -1,0 +1,13 @@
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 1rem;
+    padding: 2rem;
+    border: solid 2px gray;
+    width: 50%
+}
+
+label{
+    margin: 0.5rem;
+}
